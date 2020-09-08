@@ -2,9 +2,6 @@
 
 This repo aims to show one of the ways you can use mobx-state-tree (MST) with react-navigation. The code is intended to be approachable to people who are new to react-native and react-navigation. Please note that MST is **not** used to store the navigation state itself - just the navigation params.
 
-### Expo link
-
-[https://exp.host/@vonovak/mst-demo](https://exp.host/@vonovak/mst-demo)
 
 ### Description
 
